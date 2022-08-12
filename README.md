@@ -183,11 +183,11 @@ lapsedUserAccounts.map( u => sendBillTo(u.address) );
 ```
 
 Don't worry if you don't completely follow everything that goes on here — we
-will cover advanced iterators in detail later in this section.
+will cover advanced iterators in detail later on.
 
 ## Instructions
 
-You are going to write several methods. Write your code in the `index.js` file.
+Let's practice writing arrow functions. Write your code in the `index.js` file.
 Let the tests guide you through the process.
 
 ## Conclusion
